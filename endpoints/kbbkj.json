@@ -1,0 +1,392 @@
+[
+    {
+        "bib": "10",
+        "first_name": "Oliver",
+        "last_name": "Nelson",
+        "date_of_birth": "2022-04-16",
+        "gender": "M",
+        "startTime": "2025-04-14 14:00:03.000000",
+        "expected_laps": 2,
+        "lap_times": [
+            {
+                "id": "11",
+                "time": "2025-04-14 14:06:33.30"
+            },
+            {
+                "id": "25",
+                "time": "2025-04-14 14:05:09.08"
+            }
+        ],
+        "lap_durations": [
+            390,
+            -84
+        ],
+        "total_time": 306,
+        "total_time_formatted": "00:05:06",
+        "order": 1
+    },
+    {
+        "bib": "1",
+        "first_name": "Jakub",
+        "last_name": "Jel\u00ednek",
+        "date_of_birth": "2023-01-08",
+        "gender": "M",
+        "startTime": "2025-04-14 14:00:03.000000",
+        "expected_laps": 2,
+        "lap_times": [
+            {
+                "id": "2",
+                "time": "2025-04-14 14:09:14.03"
+            },
+            {
+                "id": "16",
+                "time": "2025-04-14 14:05:53.04"
+            }
+        ],
+        "lap_durations": [
+            551,
+            -201
+        ],
+        "total_time": 350,
+        "total_time_formatted": "00:05:50",
+        "order": 2
+    },
+    {
+        "bib": "15",
+        "first_name": "Jessica",
+        "last_name": "\u010cern\u00e1",
+        "date_of_birth": "2022-03-30",
+        "gender": "F",
+        "startTime": "2025-04-14 14:00:03.000000",
+        "expected_laps": 2,
+        "lap_times": [
+            {
+                "id": "15",
+                "time": "2025-04-14 14:08:16.49"
+            },
+            {
+                "id": "30",
+                "time": "2025-04-14 14:06:31.42"
+            }
+        ],
+        "lap_durations": [
+            493,
+            -105
+        ],
+        "total_time": 388,
+        "total_time_formatted": "00:06:28",
+        "order": 3
+    },
+    {
+        "bib": "12",
+        "first_name": "Filip",
+        "last_name": "Jen\u010d",
+        "date_of_birth": "2023-02-07",
+        "gender": "M",
+        "startTime": "2025-04-14 14:00:03.000000",
+        "expected_laps": 2,
+        "lap_times": [
+            {
+                "id": "12",
+                "time": "2025-04-14 14:08:11.28"
+            },
+            {
+                "id": "27",
+                "time": "2025-04-14 14:06:58.13"
+            }
+        ],
+        "lap_durations": [
+            488,
+            -73
+        ],
+        "total_time": 415,
+        "total_time_formatted": "00:06:55",
+        "order": 4
+    },
+    {
+        "bib": "7",
+        "first_name": "Vil\u00e9m",
+        "last_name": "Pra\u017e\u00e1k",
+        "date_of_birth": "2023-07-22",
+        "gender": "M",
+        "startTime": "2025-04-14 14:00:03.000000",
+        "expected_laps": 2,
+        "lap_times": [
+            {
+                "id": "7",
+                "time": "2025-04-14 14:07:27.27"
+            },
+            {
+                "id": "22",
+                "time": "2025-04-14 14:07:12.30"
+            }
+        ],
+        "lap_durations": [
+            444,
+            -15
+        ],
+        "total_time": 429,
+        "total_time_formatted": "00:07:09",
+        "order": 5
+    },
+    {
+        "bib": "14",
+        "first_name": "Lilly",
+        "last_name": "N\u011bme\u010dkov\u00e1",
+        "date_of_birth": "2023-11-14",
+        "gender": "F",
+        "startTime": "2025-04-14 14:00:03.000000",
+        "expected_laps": 2,
+        "lap_times": [
+            {
+                "id": "14",
+                "time": "2025-04-14 14:08:30.85"
+            },
+            {
+                "id": "29",
+                "time": "2025-04-14 14:07:41.49"
+            }
+        ],
+        "lap_durations": [
+            507,
+            -49
+        ],
+        "total_time": 458,
+        "total_time_formatted": "00:07:38",
+        "order": 6
+    },
+    {
+        "bib": "8",
+        "first_name": "Mat\u011bj",
+        "last_name": "Protivn\u00fd",
+        "date_of_birth": "2022-10-03",
+        "gender": "M",
+        "startTime": "2025-04-14 14:00:03.000000",
+        "expected_laps": 2,
+        "lap_times": [
+            {
+                "id": "8",
+                "time": "2025-04-14 14:06:31.27"
+            },
+            {
+                "id": "23",
+                "time": "2025-04-14 14:07:42.97"
+            }
+        ],
+        "lap_durations": [
+            388,
+            71
+        ],
+        "total_time": 459,
+        "total_time_formatted": "00:07:39",
+        "order": 7
+    },
+    {
+        "bib": "11",
+        "first_name": "Jakub",
+        "last_name": "Ryb\u00e1\u0159",
+        "date_of_birth": "2023-06-19",
+        "gender": "M",
+        "startTime": "2025-04-14 14:00:03.000000",
+        "expected_laps": 2,
+        "lap_times": [
+            {
+                "id": "10",
+                "time": "2025-04-14 14:09:02.96"
+            },
+            {
+                "id": "26",
+                "time": "2025-04-14 14:08:09.54"
+            }
+        ],
+        "lap_durations": [
+            539,
+            -53
+        ],
+        "total_time": 486,
+        "total_time_formatted": "00:08:06",
+        "order": 8
+    },
+    {
+        "bib": "13",
+        "first_name": "Am\u00e1lie",
+        "last_name": "Blahutov\u00e1",
+        "date_of_birth": "2022-12-09",
+        "gender": "F",
+        "startTime": "2025-04-14 14:00:03.000000",
+        "expected_laps": 2,
+        "lap_times": [
+            {
+                "id": "13",
+                "time": "2025-04-14 14:08:26.50"
+            },
+            {
+                "id": "28",
+                "time": "2025-04-14 14:08:09.03"
+            }
+        ],
+        "lap_durations": [
+            503,
+            -17
+        ],
+        "total_time": 486,
+        "total_time_formatted": "00:08:06",
+        "order": 9
+    },
+    {
+        "bib": "4",
+        "first_name": "Tom\u00e1\u0161",
+        "last_name": "Proch\u00e1zka",
+        "date_of_birth": "2023-03-05",
+        "gender": "M",
+        "startTime": "2025-04-14 14:00:03.000000",
+        "expected_laps": 2,
+        "lap_times": [
+            {
+                "id": "6",
+                "time": "2025-04-14 14:06:03.14"
+            },
+            {
+                "id": "19",
+                "time": "2025-04-14 14:08:27.98"
+            }
+        ],
+        "lap_durations": [
+            360,
+            144
+        ],
+        "total_time": 504,
+        "total_time_formatted": "00:08:24",
+        "order": 10
+    },
+    {
+        "bib": "9",
+        "first_name": "Vojt\u011bch",
+        "last_name": "Z\u00e1st\u011bra",
+        "date_of_birth": "2023-01-03",
+        "gender": "M",
+        "startTime": "2025-04-14 14:00:03.000000",
+        "expected_laps": 2,
+        "lap_times": [
+            {
+                "id": "9",
+                "time": "2025-04-14 14:06:13.64"
+            },
+            {
+                "id": "24",
+                "time": "2025-04-14 14:08:32.79"
+            }
+        ],
+        "lap_durations": [
+            370,
+            139
+        ],
+        "total_time": 509,
+        "total_time_formatted": "00:08:29",
+        "order": 11
+    },
+    {
+        "bib": "6",
+        "first_name": "Maxmilian",
+        "last_name": "Prokop",
+        "date_of_birth": "2022-02-01",
+        "gender": "M",
+        "startTime": "2025-04-14 14:00:03.000000",
+        "expected_laps": 2,
+        "lap_times": [
+            {
+                "id": "4",
+                "time": "2025-04-14 14:08:13.66"
+            },
+            {
+                "id": "21",
+                "time": "2025-04-14 14:08:35.83"
+            }
+        ],
+        "lap_durations": [
+            490,
+            22
+        ],
+        "total_time": 512,
+        "total_time_formatted": "00:08:32",
+        "order": 12
+    },
+    {
+        "bib": "2",
+        "first_name": "Matou\u0161",
+        "last_name": "M\u00e1dle",
+        "date_of_birth": "2023-04-21",
+        "gender": "M",
+        "startTime": "2025-04-14 14:00:03.000000",
+        "expected_laps": 2,
+        "lap_times": [
+            {
+                "id": "1",
+                "time": "2025-04-14 14:07:50.18"
+            },
+            {
+                "id": "17",
+                "time": "2025-04-14 14:09:31.42"
+            }
+        ],
+        "lap_durations": [
+            467,
+            101
+        ],
+        "total_time": 568,
+        "total_time_formatted": "00:09:28",
+        "order": 13
+    },
+    {
+        "bib": "5",
+        "first_name": "Eli\u00e1\u0161",
+        "last_name": "Jakub\u016fv",
+        "date_of_birth": "2022-08-24",
+        "gender": "M",
+        "startTime": "2025-04-14 14:00:03.000000",
+        "expected_laps": 2,
+        "lap_times": [
+            {
+                "id": "5",
+                "time": "2025-04-14 14:05:29.95"
+            },
+            {
+                "id": "20",
+                "time": "2025-04-14 14:09:42.49"
+            }
+        ],
+        "lap_durations": [
+            326,
+            253
+        ],
+        "total_time": 579,
+        "total_time_formatted": "00:09:39",
+        "order": 14
+    },
+    {
+        "bib": "3",
+        "first_name": "Matou\u0161",
+        "last_name": "Jindra",
+        "date_of_birth": "2023-04-08",
+        "gender": "M",
+        "startTime": "2025-04-14 14:00:03.000000",
+        "expected_laps": 2,
+        "lap_times": [
+            {
+                "id": "3",
+                "time": "2025-04-14 14:09:28.30"
+            },
+            {
+                "id": "18",
+                "time": "2025-04-14 14:09:53.74"
+            }
+        ],
+        "lap_durations": [
+            565,
+            25
+        ],
+        "total_time": 590,
+        "total_time_formatted": "00:09:50",
+        "order": 15
+    }
+]
