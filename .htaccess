@@ -1,6 +1,6 @@
 RewriteEngine On
 
-# Pokud požadavek neodkazuje na existující soubor nebo adresář, přesměruj na index.php
+# Přesměrování všech platných požadavků na index.php pro správné routování
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ index.php [QSA,L]

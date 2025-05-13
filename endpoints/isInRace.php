@@ -23,12 +23,11 @@ $router->addRoute("/isInRace", function ($method) {
             LEFT JOIN categories c ON c.category_id = p.category_id 
             LEFT JOIN result r ON REPLACE(r.tag, ' ', '') = REPLACE(p.tag, ' ', '')
             WHERE REPLACE(p.tag, ' ', '') = '$tagId';";
-        //echo $sql;
+        
         $result = $GLOBALS['conn']->query($sql);
 
         if ($result->num_rows > 0) {
             $row = $result->fetch_assoc();
-            //print( json_encode($row));
             if ($row["laps"] == 0) {
                 http_response_code(404);
                 echo json_encode(["error" => "Tag not found"]);

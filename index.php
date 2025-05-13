@@ -9,10 +9,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
     exit();
 }
 
-/**
- * Jednoduchý router pro zpracování API požadavků.
- * Tento router umožňuje přidávat cesty (endpoints) a přiřazovat jim funkce (handlery).
- */
 class Router {
     protected $routes = [];
 
@@ -31,7 +27,6 @@ class Router {
      * @return bool
      */
     protected function checkAuth() {
-        // Implementaci autentizace můžete přidat později (např. kontrola tokenu, session apod.)
         return true;
     }
 
