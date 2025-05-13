@@ -1,0 +1,11 @@
+{
+    "vmArgs": "-Dsample.hostname=192.168.2.101",
+    "java.project.sourcePaths": [
+        "src",
+        "lib"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
